@@ -1,0 +1,12 @@
+
+X	java:S125*"<This block of commented-out lines of code should be removed.(¹’¨î8Ñ±ÒÅ1
+P
+java:S1068"4Remove this unused "versementService" private field.(šª”v8Ñ±ÒÅ1
+Y
+java:S1068"7Remove this unused "versementRepository" private field.(Ë†şñúÿÿÿÿ8Ñ±ÒÅ1
+N
+java:S1068"1Remove this unused "docRepository" private field.(™î8Ñ±ÒÅ1
+R
+java:S1068"5Remove this unused "docStorageService" private field.(—¼Ìá8Ñ±ÒÅ1
+O
+java:S1068"2Remove this unused "comptesService" private field.(ùšèÏ8Ñ±ÒÅ1

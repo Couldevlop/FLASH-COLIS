@@ -1,0 +1,15 @@
+
+T
+java:S3655U"7Call "Optional#isPresent()" before accessing the value.(¡´Ï8¢ªÄÒÅ1
+o	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×î‚õùÿÿÿÿ8¦ªÄÒÅ1
+t
+java:S3776+"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(×î‚õùÿÿÿÿ8¦ªÄÒÅ1
+I
+java:S1125O"'Remove the unnecessary boolean literal.(ü‡§şùÿÿÿÿ8¨ªÄÒÅ1
+]	java:S125i"<This block of commented-out lines of code should be removed.(šêÂ‹ûÿÿÿÿ8ªªÄÒÅ1
+j	java:S100z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«üãâ8ªªÄÒÅ1
+F
+java:S1172z")Remove this unused method parameter "st".(«üãâ8áéÄÒÅ1
+Y	java:S125ƒ"<This block of commented-out lines of code should be removed.(‚—ò³8áéÄÒÅ1
+V
+java:S1068":Remove this unused "stockStationRepository" private field.(Çğ«.8áéÄÒÅ1

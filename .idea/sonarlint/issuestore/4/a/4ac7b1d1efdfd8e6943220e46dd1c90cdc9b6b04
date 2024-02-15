@@ -1,0 +1,41 @@
+
+S
+java:S3655Ö"7Call "Optional#isPresent()" before accessing the value.(©æ·³şÿÿÿÿ
+\	java:S107)"BConstructor has 17 parameters, which is greater than 7 authorized.(¼ã¥†şÿÿÿÿ
+h	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Á±™úÿÿÿÿ
+]	java:S125L"<This block of commented-out lines of code should be removed.(¯Ä˜½ÿÿÿÿÿ8æ…¬ÒÅ1
+]	java:S125_"<This block of commented-out lines of code should be removed.(²÷¿Êÿÿÿÿÿ8ÄïªÒÅ1
+^	java:S125 "<This block of commented-out lines of code should be removed.(­–öóøÿÿÿÿ8ªü£ÒÅ1
+^	java:S125ô"<This block of commented-out lines of code should be removed.(­–öóøÿÿÿÿ8Š¦ÒÅ1
+R	java:S125˜"<This block of commented-out lines of code should be removed.(„ƒêü
+X	java:S125œ"<This block of commented-out lines of code should be removed.(ô·š
+8ªü£ÒÅ1
+Y	java:S125Å"<This block of commented-out lines of code should be removed.(¥š‚8…¥ ÒÅ1
+^	java:S125ò"<This block of commented-out lines of code should be removed.(€ÂÕúşÿÿÿÿ8é‘ŸÒÅ1
+^	java:S125š"<This block of commented-out lines of code should be removed.(©¿ûÊøÿÿÿÿ8¨—¯ÒÅ1
+J
+java:S1068"4Remove this unused "ventesRepository" private field.(½»¶
+Q
+java:S1068"6Remove this unused "stationsRepository" private field.(»¡³˜şÿÿÿÿ
+P
+java:S1068":Remove this unused "stockGestociRepository" private field.(´š–Ô
+X
+java:S1068"6Remove this unused "prixInitRepository" private field.(ÜÃÌıÿÿÿÿ8ğ…¬ÒÅ1
+V
+java:S1068":Remove this unused "stockStationRepository" private field.(Çğ«.8‘¦ÒÅ1
+[
+java:S1068">Remove this unused "clientsComptantsRepository" private field.(Œƒıñ8‘¦ÒÅ1
+Z
+java:S1068"=Remove this unused "clientCorporateRepository" private field.(µáúü8«—¯ÒÅ1
+K
+java:S1068 "5Remove this unused "clientsRepository" private field.(¶Öâ
+c
+java:S1068!"ARemove this unused "historyStockStationRepository" private field.( ­ÒØşÿÿÿÿ8’¦ÒÅ1
+T
+java:S1068#"7Remove this unused "logActionRepository" private field.(şèû¬8³ü£ÒÅ1
+U
+java:S1068$"8Remove this unused "mouvementsRepository" private field.(¥˜ç‡8’¦ÒÅ1
+W
+java:S1068%"5Remove this unused "indexesRepository" private field.(š™ôûÿÿÿÿ8’¦ÒÅ1
+W
+java:S1068'":Remove this unused "beneficiaireRepository" private field.(Ãı¾Ì8«—¯ÒÅ1

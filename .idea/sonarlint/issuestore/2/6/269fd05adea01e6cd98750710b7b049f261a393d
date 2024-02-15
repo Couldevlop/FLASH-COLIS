@@ -1,0 +1,35 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àÀ€Ãþÿÿÿÿ
+S
+java:S3655Ù"7Call "Optional#isPresent()" before accessing the value.(ÙäÕÜÿÿÿÿÿ
+N
+java:S3655¥"7Call "Optional#isPresent()" before accessing the value.(å³£“
+N
+java:S3655 "7Call "Optional#isPresent()" before accessing the value.(œ¬Òü
+N
+java:S3655ç"7Call "Optional#isPresent()" before accessing the value.(ßüðþ
+S
+java:S3655‡"7Call "Optional#isPresent()" before accessing the value.(ÙäÕÜÿÿÿÿÿ
+[
+java:S4684/"@Replace this persistent entity with a simple POJO or DTO object.(ßÙÖÿÿÿÿÿ
+[
+java:S4684="@Replace this persistent entity with a simple POJO or DTO object.(¡ŸÃñüÿÿÿÿ
+[
+java:S4684>"@Replace this persistent entity with a simple POJO or DTO object.(ÈÚâíÿÿÿÿÿ
+[
+java:S4684?"@Replace this persistent entity with a simple POJO or DTO object.(þ×‹äþÿÿÿÿ
+‚
+java:S1130@"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ûàµ¤
+P	java:S125c"<This block of commented-out lines of code should be removed.(Šãèj
+V	java:S125f"<This block of commented-out lines of code should be removed.(œ„†ùøÿÿÿÿ
+[
+java:S4684o"@Replace this persistent entity with a simple POJO or DTO object.( Ó“øÿÿÿÿ
+3
+java:S1116€"Remove this empty statement.(•ªŒõ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(³ÉºÕýÿÿÿÿ
+R	java:S125­"<This block of commented-out lines of code should be removed.(«º¦†
+W	java:S125²"<This block of commented-out lines of code should be removed.(œ„†ùøÿÿÿÿ
+\
+java:S4684Ô"@Replace this persistent entity with a simple POJO or DTO object.(®Ù·ìÿÿÿÿÿ
+O
+java:S1068"4Remove this unused "zoneV1Repository" private field.(•Åüþÿÿÿÿ

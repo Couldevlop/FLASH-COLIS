@@ -1,0 +1,46 @@
+
+U
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(ö…Š•8ã„²ÓÅ1
+U
+java:S3655 "7Call "Optional#isPresent()" before accessing the value.( ø”÷8ã„²ÓÅ1
+X	java:S125"<This block of commented-out lines of code should be removed.(°›Õú8ä„²ÓÅ1
+W	java:S125#"<This block of commented-out lines of code should be removed.(œË’b8æ„²ÓÅ1
+X	java:S1256"<This block of commented-out lines of code should be removed.(ü¤›¡8æ„²ÓÅ1
+X	java:S125B"<This block of commented-out lines of code should be removed.(ÑÓÄÆ8è„²ÓÅ1
+b
+java:S4684I"@Replace this persistent entity with a simple POJO or DTO object.(Ö¸£àüÿÿÿÿ8è„²ÓÅ1
+S
+java:S6437N"6Revoke and change this password, as it is compromised.(¥€ìĞ8é„²ÓÅ1
+b
+java:S4684\"@Replace this persistent entity with a simple POJO or DTO object.(©¿ûÊøÿÿÿÿ8ê„²ÓÅ1
+]	java:S125]"<This block of commented-out lines of code should be removed.(ÉÛ×ªøÿÿÿÿ8“ƒ´ÓÅ1
+]	java:S125m"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ë„²ÓÅ1
+^
+java:S4684˜"@Replace this persistent entity with a simple POJO or DTO object.(é Î¯8í„²ÓÅ1
+^
+java:S4684˜"@Replace this persistent entity with a simple POJO or DTO object.(é Î¯8í„²ÓÅ1
+^
+java:S4684É"@Replace this persistent entity with a simple POJO or DTO object.(äÆ‘8î„²ÓÅ1
+^
+java:S4684É"@Replace this persistent entity with a simple POJO or DTO object.(äÆ‘8î„²ÓÅ1
+O
+java:S1602İ",Remove useless curly braces around statement(ŠĞàıÿÿÿÿ8ğ„²ÓÅ1
+c
+java:S4684–"@Replace this persistent entity with a simple POJO or DTO object.(ÉÁ÷„üÿÿÿÿ8ğ„²ÓÅ1
+h
+java:S4488•"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¶¤¢£8ñ„²ÓÅ1
+^	java:S125í"<This block of commented-out lines of code should be removed.(È¼¦„ùÿÿÿÿ8ñ„²ÓÅ1
+c
+java:S4684œ"@Replace this persistent entity with a simple POJO or DTO object.(¢¤î´úÿÿÿÿ8ò„²ÓÅ1
+]
+java:S4684®"@Replace this persistent entity with a simple POJO or DTO object.(ıç·G8ó„²ÓÅ1
+^
+java:S4684³"@Replace this persistent entity with a simple POJO or DTO object.(Ş”ã8ó„²ÓÅ1
+Y	java:S125µ"<This block of commented-out lines of code should be removed.(ÑÓÄÆ8ó„²ÓÅ1
+^
+java:S4684¼"@Replace this persistent entity with a simple POJO or DTO object.(Œ¹’¿8ó„²ÓÅ1
+^
+java:S4684À"@Replace this persistent entity with a simple POJO or DTO object.(û”Îñ8ó„²ÓÅ1
+G
+java:S1481Â"*Remove this unused "roles" local variable.(•Ş“Y8ÕÔ³ÓÅ1
+Y	java:S125Ã"<This block of commented-out lines of code should be removed.(ş«üº8ô„²ÓÅ1

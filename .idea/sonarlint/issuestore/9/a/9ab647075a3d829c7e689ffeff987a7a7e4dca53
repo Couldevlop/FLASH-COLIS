@@ -1,0 +1,16 @@
+
+_
+java:S2259J"BA "NullPointerException" could be thrown; "zone" is nullable here.(ü×á8ç“±ÒÅ1
+X	java:S125"<This block of commented-out lines of code should be removed.(°›Õú8š—ä¥Å1
+X	java:S125"<This block of commented-out lines of code should be removed.(ì‚ÓÍ8—ä¥Å1
+]	java:S125"<This block of commented-out lines of code should be removed.(ìÏ‡­üÿÿÿÿ8—ä¥Å1
+b
+java:S4684."@Replace this persistent entity with a simple POJO or DTO object.(õí›ıÿÿÿÿ8¢—ä¥Å1
+]	java:S1252"<This block of commented-out lines of code should be removed.(»¿²¸ùÿÿÿÿ8£—ä¥Å1
+]	java:S1255"<This block of commented-out lines of code should be removed.(äÉÉşÿÿÿÿ8¤—ä¥Å1
+Q
+java:S14817"/Remove this unused "logAction1" local variable.(Å£Õ¥úÿÿÿÿ8«—ä¥Å1
+Q
+java:S1481M"/Remove this unused "logAction1" local variable.(˜Ø±¹ıÿÿÿÿ8ÔşµÒÅ1
+Q
+java:S1481U"/Remove this unused "logAction1" local variable.(•Àè«ûÿÿÿÿ8¾É¶ÒÅ1
